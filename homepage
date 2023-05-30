@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HOME PAGE</title>
+        <style>
+        ourDiv{Border:3px outset blue;
+        background-color:#090;
+        text-align:center}    
+        </style>
+        <body>
+            <div class="ourDiv"> 
+                <P>
+                    IBUIDVIBIBVIWBUDIDBUIDBUVUIDBI
+                </P>
+            </div>
+        </body>
+    </head>
+
+</html>
